@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+div {
+  
+ float: left;
+ background-color: black;
+ padding: 10px 20px;
+  font-size: 20px;
+  
+  display: top;
+ }
+
+div.header {
+  
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+div.empty {
+  width: 1300px;
+  }
+  
+  .city {
+    width: 200px;
+    text-align: center;}
+  .contakt {
+    width: 200px;
+    text-align: center;
+  }
+  .download {
+    width: 200px;
+    text-align: center;
+  }
+  .document:hover {
+    background: blue;}
+    .contakt:hover {
+    background: blue;
+  }
+  .city:hover {
+    background: blue;}
+  
+  .download:hover {
+        background: blue;}
+  
+
+
