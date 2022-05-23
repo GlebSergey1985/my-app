@@ -18,7 +18,8 @@ header a:hover{
 .right {
   text-align: right;
 }
-.pipl,.logo,.entrance{
+.column{
+  
   width: 33%;
   float:left;
   }
@@ -38,4 +39,16 @@ header a:hover{
     width: 30%;
     text-align: right;
   }
- 
+  main{
+   background-color: #fff;
+   height: calc(100vh - 200px) ;
+   
+ }
+ footer{
+   background-color:rgb(9, 136, 15);
+   height: 150px;
+   
+ }
+ .sale a{
+   padding: 9px 5px;
+ }
