@@ -29,3 +29,13 @@ header a:hover{
   .entrance{
     text-align: right;
   }
+  .sale,.poisk {
+    margin: 20px 0px;
+    float:left;
+    font-size:15px;
+  }
+  .poisk{
+    width: 30%;
+    text-align: right;
+  }
+ 

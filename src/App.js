@@ -12,8 +12,7 @@ function App() {
         <a href="#">Contact</a>
         <a href="#">Download</a>
       </div>
-      <div>
-          <div class="pipl">
+           <div class="pipl">
            <a href="#">Женщинам</a>
            <a href="#">Мужчинам</a>
            <a href="#">Детям</a>
@@ -25,6 +24,21 @@ function App() {
            <a href='#'>Войти</a>
            <a href="#">Корзина</a>
           </div>
+      <div class="sale">
+        <a href="#">Идеи</a>
+        <a href="#">Новинки</a>
+        <a href="#">Одежда</a>
+        <a href="#">Обувь</a>
+        <a href="#">Аксесуары</a>
+        <a href="#">Бренды</a>
+        <a href="#">Premium</a>
+        <a href="#">Спорт</a>
+        <a href="#">Красота</a>
+        <a href="#">Дом</a>
+        <a href="#">Sale%</a>
+      </div>
+      <div class="poisk">
+        <a href="#">poisk</a>
       </div>
     </header> 
 
