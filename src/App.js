@@ -12,7 +12,22 @@ function App() {
         <a href="#">Contact</a>
         <a href="#">Download</a>
       </div>
-    </header>   
+      <div>
+          <div class="pipl">
+           <a href="#">Женщинам</a>
+           <a href="#">Мужчинам</a>
+           <a href="#">Детям</a>
+          </div>
+          <div class="logo">
+           <a href="#">E-comers</a>
+          </div>
+          <div class="entrance">
+           <a href='#'>Войти</a>
+           <a href="#">Корзина</a>
+          </div>
+      </div>
+    </header> 
+
   );
 }
 

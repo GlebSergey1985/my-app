@@ -18,3 +18,14 @@ header a:hover{
 .right {
   text-align: right;
 }
+.pipl,.logo,.entrance{
+  width: 33%;
+  float:left;
+  }
+  .logo {
+    text-align: center;
+    font-size: 40px;
+  }
+  .entrance{
+    text-align: right;
+  }
